@@ -1,4 +1,4 @@
 # FlutterRiverpodMysql
 ![Codigo Alpha Flutter]
 
-![alt text](https://github.com/codigoalphacol/tiendaFlutterMysql/blob/master/assets/images/loginmascrudmysluno.png) 
+![alt text](https://github.com/codigoalphacol/FlutterRiverpodMysql/blob/main/portada.png) 
